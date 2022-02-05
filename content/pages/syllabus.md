@@ -27,12 +27,57 @@ Grading
 
 Your course grade will be based on a final exam, a quiz, case write-ups, homework assignments, and class participation, as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final Exam (3-hour exam) | 40% |
-| Case Write-ups and Homework Assignments | 30% |
-| Quiz (1.5-hour test held in class) | 20% |
-| Class Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam (3-hour exam)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Case Write-ups and Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz (1.5-hour test held in class)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 By definition, class participation will be subjectively evaluated ([see below]({{< baseurl >}}/pages/syllabus#Class_Participation)).
 
